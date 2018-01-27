@@ -133,9 +133,6 @@ body {
       .item-1  {
       grid-column: 1/ span 2;
     }
-     .item-6  {
-      grid-column: 3/ span 2;
-    }
     .item-line  {
       grid-column: 1/ span 4;
     }
